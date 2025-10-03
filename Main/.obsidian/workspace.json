@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66cba95f8aba6634",
+        "id": "b234c238a8bb8368",
         "type": "tabs",
         "children": [
           {
-            "id": "216d05b37e79d322",
+            "id": "03d3f2a1f0527d1f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"1. indexs/\" ",
+                "query": "tag:#clippings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/writing/task-2/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks"
             }
           },
           {
@@ -110,7 +109,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -122,7 +121,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -146,17 +145,7 @@
             }
           },
           {
-            "id": "bee2fe312e8363e6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "2c2bb1299bbcb1f4",
+            "id": "096c2646f875ebdf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,18 +170,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "216d05b37e79d322",
+  "active": "03d3f2a1f0527d1f",
   "lastOpenFiles": [
+    "2. notes/english/Task-1 introduction practice.md",
     "2. notes/english/Selfish.md",
+    "2. notes/english/Online Resources.md",
     "1. indexs/main.base",
     "2. notes/english/Work.md",
-    "2. notes/english/Task-1 introduction practice.md",
     "draft/2025-10-01.md",
     "2. notes/english/Printed Materials.md",
-    "2. notes/english/Online Resources.md",
     "draft/Untitled.md",
     "draft",
     "5. templates/term-usage-meaning.md",

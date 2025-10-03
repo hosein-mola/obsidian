@@ -2,5 +2,6 @@
   "cssTheme": "Black",
   "baseFontSize": 28,
   "baseFontSizeAction": true,
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system"
 }
