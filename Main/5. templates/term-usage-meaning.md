@@ -1,0 +1,12 @@
+
+## Meaning:
+
+
+## Synonyms:
+
+
+## Usages: 
+
+
+## Reference: 
+
