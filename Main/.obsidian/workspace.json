@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2. notes/english/Work.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Work"
             }
           },
           {
@@ -158,14 +159,23 @@
               "icon": "lucide-ghost",
               "title": "smart-connections-view"
             }
+          },
+          {
+            "id": "2c2bb1299bbcb1f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +185,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a01019a1682ce2a9",
