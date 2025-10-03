@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a2bd86078560189",
+        "id": "d8e8fa36e265a933",
         "type": "tabs",
         "children": [
           {
-            "id": "df12340f1e6bc57e",
+            "id": "13e1cfea7fb559db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df12340f1e6bc57e",
+  "active": "096c2646f875ebdf",
   "lastOpenFiles": [
-    "2. notes/english/Work.md",
     "1. indexs/main.base",
+    "2. notes/english/Work.md",
     "2. notes/english/Task-1 introduction practice.md",
     "draft/2025-10-01.md",
     "2. notes/english/Printed Materials.md",
