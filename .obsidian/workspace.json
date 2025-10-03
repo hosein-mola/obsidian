@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "57bcb83ef3a4e86e",
+    "id": "70f59432b8ddb53e",
     "type": "split",
     "children": [
       {
-        "id": "8a2bd86078560189",
+        "id": "3f3a860ac49dbc88",
         "type": "tabs",
         "children": [
           {
-            "id": "df12340f1e6bc57e",
+            "id": "caf18e34aafe0750",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c7e556b08848b1da",
+    "id": "822151a10630a7e5",
     "type": "split",
     "children": [
       {
-        "id": "5c2eee942acd0b99",
+        "id": "070b09a566189783",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0832e148078171",
+            "id": "4b4c7f0c7c3decc4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "0448a3e2e2797ed2",
+            "id": "7293c0e9227c5561",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "cb188d5a9ad6bbd9",
+            "id": "c8298eb6d1eab114",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "4f645a7e6ec398b9",
+    "id": "a11a75972ca84b34",
     "type": "split",
     "children": [
       {
-        "id": "f7cacc03b1f62e76",
+        "id": "4224ec7dd76d2104",
         "type": "tabs",
         "children": [
           {
-            "id": "ce41f1323af7cedf",
+            "id": "df4cf2a53fd8f3b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/writing/task-2/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,16 +99,16 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0a59c73a9c1b063c",
+            "id": "1eca39e85b5f7176",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
@@ -117,7 +116,7 @@
             }
           },
           {
-            "id": "1c56f9b585995c9f",
+            "id": "ee723cd412828e57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +131,7 @@
             }
           },
           {
-            "id": "c86536a7ade8bf0c",
+            "id": "6426ac437c7dbb19",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -144,33 +143,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "bee2fe312e8363e6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "096c2646f875ebdf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,44 +159,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "df12340f1e6bc57e",
-  "lastOpenFiles": [
-    "2. notes/english/Work.md",
-    "1. indexs/main.base",
-    "2. notes/english/Task-1 introduction practice.md",
-    "draft/2025-10-01.md",
-    "2. notes/english/Printed Materials.md",
-    "2. notes/english/Online Resources.md",
-    "2. notes/english/Selfish.md",
-    "draft/Untitled.md",
-    "draft",
-    "5. templates/term-usage-meaning.md",
-    "4. sources/Recent IELTS Writing Topics and Questions 2025.md",
-    "Recent IELTS Writing Topics and Questions 02025.md",
-    "5. templates/writing-task-1-template.md",
-    "6. Clippings",
-    "2. notes/english/ielts",
-    "2. notes/english/ielts/writing",
-    "2. notes/test.md",
-    "Untitled.md",
-    "test.md",
-    "5. templates",
-    "1. indexs",
-    "2. notes/english",
-    "2025-09-28.md",
-    "3. canvas",
-    "4. sources",
-    "english/index.md",
-    "english/task-2/task-2.md",
-    "english/writing/task-2/1. Introduction.md",
-    "Untitled.canvas",
-    "english/writing/task-2/3. conlusion.md",
-    "english/writing/task-2/2. body paragraph.md",
-    "yyyy.md",
-    "Welcome.md"
-  ]
+  "active": "caf18e34aafe0750",
+  "lastOpenFiles": []
 }
