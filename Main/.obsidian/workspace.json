@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8e8fa36e265a933",
+        "id": "66cba95f8aba6634",
         "type": "tabs",
         "children": [
           {
-            "id": "13e1cfea7fb559db",
+            "id": "216d05b37e79d322",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"1. indexs/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             }
           },
           {
-            "id": "096c2646f875ebdf",
+            "id": "2c2bb1299bbcb1f4",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,15 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "096c2646f875ebdf",
+  "active": "216d05b37e79d322",
   "lastOpenFiles": [
+    "2. notes/english/Selfish.md",
     "1. indexs/main.base",
     "2. notes/english/Work.md",
     "2. notes/english/Task-1 introduction practice.md",
     "draft/2025-10-01.md",
     "2. notes/english/Printed Materials.md",
     "2. notes/english/Online Resources.md",
-    "2. notes/english/Selfish.md",
     "draft/Untitled.md",
     "draft",
     "5. templates/term-usage-meaning.md",

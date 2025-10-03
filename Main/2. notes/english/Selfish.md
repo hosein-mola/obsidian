@@ -1,4 +1,4 @@
-#selfish 
+#selfish #trait
 ## Meaning:
 
 The word **"selfish"** means being **concerned excessively or exclusively with oneself** without regard for the needs, feelings, or well-being of others.
